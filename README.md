@@ -1,4 +1,4 @@
-# Indian-start-up-ecosystem-Analysis
+# Indian-start-up Data Analysis
 
 ![alt text](image-1.png)
  
