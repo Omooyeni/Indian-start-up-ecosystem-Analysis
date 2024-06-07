@@ -7,7 +7,7 @@
 
 The project was done in python and deployed in Power Bi, using the provided data set gotten from three different source namely Database, One drive and GitHub Repository I connected to database from python to get the 2020 and 2021 dataset while 2018 and 2019 dataset was gotten from One drive and GitHub Repository respectively.
 
-Following the CRISP-DM framework, having understood the objective of the project I develop the Hypothesis Statements, set up some analytical questions and embark on the data cleaning process of each of the dataset separately which take almost half of the time I spent on the project, after which I concatenated the datasets together and began the Exploratory data Analysis, then perform Hypothesis testing and move on to answer the analytical questions and then go to Power BI for Deployment. 
+Following the CRISP-DM framework, having understood the objective of the project I develop the Hypothesis Statements, set up some analytical questions and embark on the data cleaning process of each of the dataset separately which take almost half of the time I spent on the project, after which I concatenated the datasets together do data validation of the concatenated data frame and began the Exploratory data Analysis, then perform Hypothesis testing and move on to answer the analytical questions and then go to Power BI for Deployment. 
 
 Project Structure:
 
