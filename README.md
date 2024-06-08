@@ -2,7 +2,7 @@
 
 ![alt text](image-1.png)
  
- This Indian Startup Data Analysis Project is an initiative aimed at analyzing the funding received by start-ups in India from 2018 to 2021 and to investigate the India start-ups ecosystem and propose the best course of action while deriving insights into various aspects of start-ups in India, such as funding trends, industry distribution, geographical spread, and key players in the market. The analysis was done in Python and deployed in Power BI.
+ This Indian Startup Data Analysis Project is an initiative aimed at analyzing the funding received by start-ups in India from 2018 to 2021 and to investigate the India start-ups ecosystem and propose the best course of action while deriving insights into various aspects of start-ups in India, such as funding trends, industry distribution, geographical spread, and key players in the market. 
 
 
 The project was done in python and deployed in Power Bi, using the provided data set gotten from three different source namely Database, One drive and GitHub Repository I connected to database from python to get the 2020 and 2021 dataset while 2018 and 2019 dataset was gotten from One drive and GitHub Repository respectively.
